@@ -88,7 +88,16 @@ Spam detection is crucial in real-world applications such as email filtering, SM
 | GradientBoostingClassifier (GBDT) | 95.06%   | 0.93
 | XGBClassifier (xgb)               | 96.80%   | 0.94  
 
+# 📸 Screenshots
+- **Model Build** 
+<img src="SMSEmail.png" width="900" height="750">
 
+- **WordCloud of Spam/Ham messages**
+  - Ham Message WordCloud
+  <img src="Ham.png" width="700" height="400">
+
+  - Spam Message WordCloud
+  <img src="spam.png" width="700" height="400">
 
 # 🚀 Future Enhancements
 - Deploy as a Flask/Streamlit web app
